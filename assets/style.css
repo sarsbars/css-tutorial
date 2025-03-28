@@ -21,7 +21,7 @@ body {
 }
 
 .circle {
-    background: linear-gradient (#ffffff27, #ffffff28);
+    background: linear-gradient(#ffffff27, #ffffff28);
     border-radius: inherit;
     position: absolute;
     box-shadow: -5px 5px 10px #64646f33;
