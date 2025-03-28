@@ -65,7 +65,8 @@ This creates five nested .circle elements inside a parent .card. Each circle wil
 
 .card:hover .circle:nth-child(5) {
     transform: translate3d(0, 0, 150px); 
-}```
+}
+```
 
 Explanation:
 Each circle moves further along the Z-axis, creating a stunning depth illusion. This is enhanced by transition-delay, which staggers the animation for a smoother visual effect.
