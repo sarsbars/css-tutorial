@@ -2,6 +2,10 @@
 
 Welcome to my interactive CSS animation project! This web application showcases a visually intriguing 3D hover animation using pure HTML and CSS. I created this to help fellow IT students understand how powerful and creative CSS can be — even without JavaScript.
 
+## 🎬 Preview
+
+![CSS 3D Animation](./assets/animation-gif.gif)
+
 ## 🚀 Project Demo
 
 👉 [Live Demo Link](https://sarsbars.github.io/css-tutorial/) 
@@ -18,8 +22,6 @@ Welcome to my interactive CSS animation project! This web application showcases 
 │   └── style.css
 └── README.md
 ```
-
----
 
 ## 💡 What This Project Teaches
 How to use CSS transitions and transforms
