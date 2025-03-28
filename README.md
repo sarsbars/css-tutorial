@@ -4,8 +4,9 @@ Welcome to my interactive CSS animation project! This web application showcases 
 
 ## 🎬 Preview
 
-![CSS 3D Animation](./assets/animation-gif.gif)
-
+<p align="center">
+  <img src="./assets/animation-gif.gif" alt="CSS 3D Animation" width="400"/>
+</p>
 ## 🚀 Project Demo
 
 👉 [Live Demo Link](https://sarsbars.github.io/css-tutorial/) 
@@ -72,18 +73,13 @@ Explanation:
 Each circle moves further along the Z-axis, creating a stunning depth illusion. This is enhanced by transition-delay, which staggers the animation for a smoother visual effect.
 
 ## ✨ Features
+```
 ✅ Pure HTML + CSS only
 ✅ Interactive hover effect
 ✅ 3D layered animation
 ✅ Responsive and centered layout
 ✅ Great for visual learners
-
-## 🧼 Coding Best Practices
-Semantic HTML with proper use of <div> elements
-Clean, readable CSS with comments
-Separated files for HTML and CSS
-Uses transition, transform, and :hover efficiently
-
+```
 
 ## 👩‍💻 Author
 Sarah Mitchell
