@@ -1,6 +1,6 @@
 # CSS 3D Circle Animation Tutorial
 
-Hey there! 👋  
+Hey there! 
 
 Welcome to my CSS animation project! This web app shows off a fun 3D hover effect made using just HTML and CSS — no JavaScript needed   
 
@@ -36,7 +36,7 @@ I made this to help other IT students explore how creative and playful CSS can b
 - Creating cute 3D effects with `rotate3d` and `translate3d`
 - Structuring reusable circle layers using the `:nth-child()` selector
 - Adding hover animations without any JavaScript
-- Using gradients to add a pop of color 💅
+- Using gradients to add a pop of color 
 
 
 ## 🧠 Key Code Snippets
@@ -96,11 +96,11 @@ I picked soft pink and purple shades (#cba5fe and #ff20bd) because they're super
 But feel free to swap in your favorite colors! You can totally make it your own by changing the gradient direction or color stops too.
 
 ## ✨ Features
-- ✅ Pure HTML + CSS only
-- ✅ Interactive hover effect
-- ✅ 3D layered animation
-- ✅ Responsive and centered layout
-- ✅ Great for visual learners
+-  Pure HTML + CSS only
+-  Interactive hover effect
+-  3D layered animation
+-  Responsive and centered layout
+-  Great for visual learners
 
 ## 👩‍💻 Author
 Sarah Mitchell
