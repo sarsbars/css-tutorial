@@ -1,7 +1,9 @@
 # CSS 3D Circle Animation Tutorial
 
 Hey there! 👋  
-Welcome to my cute little CSS animation project! This web app shows off a fun 3D hover effect made using just HTML and CSS — no JavaScript needed   
+
+Welcome to my CSS animation project! This web app shows off a fun 3D hover effect made using just HTML and CSS — no JavaScript needed   
+
 I made this to help other IT students explore how creative and playful CSS can be. Hope it inspires you to try out some fun ideas of your own!
 
 ---
@@ -80,12 +82,18 @@ Each circle moves up along the Z-axis a little more than the last one. This crea
 
 📍Snippet 3: Gradient Background on .card
 
+```css
 .card {
     background: linear-gradient(45deg, #cba5fe, #ff20bd);
     height: 400px;
     width: 400px;
     border-radius: 50%;
 }
+```
+
+Why I Love This:
+I picked soft pink and purple shades (#cba5fe and #ff20bd) because they're super cute and give it a fun, dreamy vibe 💜💗
+But feel free to swap in your favorite colors! You can totally make it your own by changing the gradient direction or color stops too.
 
 ## ✨ Features
 - ✅ Pure HTML + CSS only
